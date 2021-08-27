@@ -11,7 +11,7 @@ function Footer() {
           textAlign: "center",
         }}
       >
-        Copyright &copy; {new Date().getFullYear()} Randy Lopulalan
+        Copyright &copy; {new Date().getFullYear()} Randy
       </p>
     </div>
   );
